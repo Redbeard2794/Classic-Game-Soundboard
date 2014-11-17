@@ -1,0 +1,19 @@
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Classic Game SoundBoard.dll
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Classic Game SoundBoard.pdb
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\AppManifest.xaml
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\Bin\Release\Classic_Game_SoundBoard_Release_AnyCPU.xap
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\App.g.cs
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\MainPage.g.cs
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\Classic Game SoundBoard.g.resources
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\Classic_Game_SoundBoard.Resources.AppResources.resources
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\Classic Game SoundBoard.csproj.GenerateResource.Cache
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\Classic Game SoundBoard.dll
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\Classic Game SoundBoard.pdb
+C:\Users\Jason\Desktop\Classic Game SoundBoard\Classic Game SoundBoard\obj\Release\XapCacheFile.xml
